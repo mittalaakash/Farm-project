@@ -1,4 +1,4 @@
-# NODE FARM
+# FARM-Project
 
 Application created with Node.js with basic templating and routing
 
