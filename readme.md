@@ -4,7 +4,7 @@ Application created with Node.js with basic templating and routing
 
 ## Publish
 
-[Website](https://farm-project.herokuapp.com)
+[Website](https://farm-app.herokuapp.com/)
 
 ## License
 
