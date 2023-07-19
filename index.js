@@ -57,6 +57,9 @@ const slugs = dataObj.map(el =>
 
 const server = http.createServer((req, res) => {
   const { query, pathname } = url.parse(req.url, true);
+  // console.log(pathname);// /product
+  // console.log(req.url);// /product?id=0
+  // console.log(query, pathname);
 
   //OVERVIEW PAGE
   if (pathname === '/' || pathname === '/overview') {
